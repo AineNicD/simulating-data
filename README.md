@@ -39,7 +39,10 @@ relationships with each other.
 data set itself can simply be displayed in an output cell within the notebook.
 ~~~
 
-<br>
+# Project:
+[simulating-data](https://github.com/AineNicD/simulating-data/blob/main/simulating-data.ipynb)
+I have chosen <b>covid-19</b> as my real world phenomenon and basing my dataset on the variables that impact the outcome of contracting the illness, death or recovery based on age, underlying health condition and hospitalisation. 
+I used [numpy.random](https://numpy.org/doc/stable/reference/random/index.html) to simulate the data based on research from credible sources such as [The World Health Organisation](https://www.who.int/health-topics/coronavirus#tab=tab_1), [health protection surveillance centre](https://www.hpsc.ie/a-z/respiratory/coronavirus/novelcoronavirus/casesinireland/) and [cso.ie](https://www.cso.ie/en/releasesandpublications/ep/p-covid19/covid-19informationhub/health/covid-19deathsandcasesstatistics/)
 
 # References
 
@@ -52,3 +55,11 @@ data set itself can simply be displayed in an output cell within the notebook.
 * [Python community](https://www.python.org/community/).
 
 * [Jupyter Notebook](https://jupyter.org/)
+
+* [numpy.random](https://numpy.org/doc/stable/reference/random/index.html) 
+
+* [World Health Organisation](https://www.who.int/health-topics/coronavirus#tab=tab_1)
+
+* [health protection surveillance centre](https://www.hpsc.ie/a-z/respiratory/coronavirus/novelcoronavirus/casesinireland/)
+
+* [cso.ie](https://www.cso.ie/en/releasesandpublications/ep/p-covid19/covid-19informationhub/health/covid-19deathsandcasesstatistics/)
