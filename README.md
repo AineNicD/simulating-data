@@ -37,12 +37,12 @@ relationships with each other.
 • Synthesise/simulate a data set as closely matching their properties as possible.
 • Detail your research and implement the simulation in a Jupyter notebook – the
 data set itself can simply be displayed in an output cell within the notebook.
+(Brian McGinley course material)
 ~~~
 
-# Project:
-[simulating-data](https://github.com/AineNicD/simulating-data/blob/main/simulating-data.ipynb)
-I have chosen <b>covid-19</b> as my real world phenomenon and basing my dataset on the variables that impact the outcome of contracting the illness, death or recovery based on age, underlying health condition and hospitalisation. 
-I used [numpy.random](https://numpy.org/doc/stable/reference/random/index.html) to simulate the data based on research from credible sources such as [The World Health Organisation](https://www.who.int/health-topics/coronavirus#tab=tab_1), [health protection surveillance centre](https://www.hpsc.ie/a-z/respiratory/coronavirus/novelcoronavirus/casesinireland/) and [cso.ie](https://www.cso.ie/en/releasesandpublications/ep/p-covid19/covid-19informationhub/health/covid-19deathsandcasesstatistics/)
+# Project: [simulating-data.ipynb](https://github.com/AineNicD/simulating-data/blob/main/simulating-data.ipynb)
+I have chosen <b>Covid-19</b> as my real world phenomenon and basing my dataset on the variables that impact the outcome of contracting the illness, death or recovery based on age, underlying health condition and hospitalisation. I chose to base my synthesised dataset on confirmed cases of Covid-19 to ensure my simulated data closely matched the properites of the real world data. Confirmed cases have consistent measurable trends while the case rates change depending on government attempts to supress the virus. 
+I used [numpy.random](https://numpy.org/doc/stable/reference/random/index.html) to simulate the data based on research from credible sources such as [The World Health Organisation](https://www.who.int/health-topics/coronavirus#tab=tab_1), [health protection surveillance centre](https://www.hpsc.ie/a-z/respiratory/coronavirus/novelcoronavirus/casesinireland/) and [cso.ie](https://www.cso.ie/en/releasesandpublications/ep/p-covid19/covid-19informationhub/health/covid-19deathsandcasesstatistics/) 
 
 # References
 
